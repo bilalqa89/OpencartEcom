@@ -1,0 +1,68 @@
+10:28:53.923 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\grouping.xml
+
+10:29:02.310 [main] INFO  testCase.TC001_AccountRegistration {36} - TC001 Account registration loggin
+10:29:04.021 [main] INFO  testCase.TC001_AccountRegistration {36} - Click on Registration
+10:29:04.025 [main] INFO  testCase.TC001_AccountRegistration {36} - Providing customer detail logs 
+10:29:06.346 [main] INFO  testCase.TC001_AccountRegistration {36} - Validating customer registration
+10:29:06.507 [main] INFO  testCase.TC001_AccountRegistration {36} - Finish TC0011 signup with randomly genrate user
+10:29:10.031 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
+10:29:12.916 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN Finish
+10:31:55.567 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\grouping.xml
+
+10:32:00.820 [main] INFO  testCase.TC001_AccountRegistration {36} - TC001 Account registration loggin
+10:32:02.733 [main] INFO  testCase.TC001_AccountRegistration {36} - Click on Registration
+10:32:02.735 [main] INFO  testCase.TC001_AccountRegistration {36} - Providing customer detail logs 
+10:32:05.032 [main] INFO  testCase.TC001_AccountRegistration {36} - Validating customer registration
+10:32:05.101 [main] INFO  testCase.TC001_AccountRegistration {36} - Finish TC0011 signup with randomly genrate user
+10:32:08.324 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
+10:41:00.563 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\test-output\testng-failed.xml
+
+10:41:05.327 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
+10:41:07.702 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN Finish
+10:12:18.592 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\grouping.xml
+
+10:12:22.842 [main] INFO  testCase.TC001_AccountRegistration {36} - TC001 Account registration loggin
+10:12:24.320 [main] INFO  testCase.TC001_AccountRegistration {36} - Click on Registration
+10:12:24.338 [main] INFO  testCase.TC001_AccountRegistration {36} - Providing customer detail logs 
+10:12:26.611 [main] INFO  testCase.TC001_AccountRegistration {36} - Validating customer registration
+10:12:26.689 [main] INFO  testCase.TC001_AccountRegistration {36} - Finish TC0011 signup with randomly genrate user
+10:12:29.839 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
+10:12:32.364 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN Finish
+11:29:03.811 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+11:32:33.064 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+11:36:32.494 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+11:36:39.517 [main] INFO  testCase.TC001_AccountRegistration {36} - TC001 Account registration loggin
+11:36:40.671 [main] INFO  testCase.TC001_AccountRegistration {36} - Click on Registration
+11:36:40.674 [main] INFO  testCase.TC001_AccountRegistration {36} - Providing customer detail logs 
+11:36:43.101 [main] INFO  testCase.TC001_AccountRegistration {36} - Validating customer registration
+11:36:43.182 [main] INFO  testCase.TC001_AccountRegistration {36} - Finish TC0011 signup with randomly genrate user
+11:36:46.367 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
+11:36:48.483 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN Finish
+11:39:03.882 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+11:39:09.274 [main] INFO  testCase.TC001_AccountRegistration {36} - TC001 Account registration loggin
+11:39:10.588 [main] INFO  testCase.TC001_AccountRegistration {36} - Click on Registration
+11:39:10.591 [main] INFO  testCase.TC001_AccountRegistration {36} - Providing customer detail logs 
+11:39:12.758 [main] INFO  testCase.TC001_AccountRegistration {36} - Validating customer registration
+11:39:12.867 [main] INFO  testCase.TC001_AccountRegistration {36} - Finish TC0011 signup with randomly genrate user
+11:39:16.148 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
+11:39:18.917 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN Finish
+10:06:50.920 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+10:07:00.292 [main] INFO  testCase.TC001_AccountRegistration {36} - TC001 Account registration loggin
+10:07:12.256 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
+10:08:12.537 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+

@@ -1,0 +1,45 @@
+11:40:29.275 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+11:40:29.286 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+11:40:29.292 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:40:29.293 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:40:29.296 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:40:29.297 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:40:29.299 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:40:29.299 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:40:29.312 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+11:40:29.340 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 28 ms.
+11:40:29.343 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:40:29.344 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:40:29.345 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:40:29.345 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:40:29.346 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:40:29.346 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:40:29.349 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:40:29.350 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:40:29.350 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:40:29.351 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:40:29.355 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:40:29.356 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:40:29.356 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:40:29.356 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:40:29.358 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:40:29.361 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+11:40:29.365 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:40:29.366 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:40:29.366 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:40:29.366 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:40:29.400 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\AppData\Local\Temp\testng-eclipse--148187908\testng-customsuite.xml
+
+11:40:29.448 [main] INFO  org.testng.internal.Utils {36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 18 ms.
+11:40:37.363 [main] INFO  testCase.TC001_AccountRegistration {36} - TC001 Account registration loggin
+11:40:39.639 [main] INFO  testCase.TC001_AccountRegistration {36} - Click on Registration
+11:40:39.646 [main] INFO  testCase.TC001_AccountRegistration {36} - Providing customer detail logs 
+11:40:42.084 [main] INFO  testCase.TC001_AccountRegistration {36} - Validating customer registration
+11:40:42.668 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.jq.Main@128c502c: 105 ms
+11:40:42.669 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@45667d98: 1 ms
+11:40:42.679 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@629adce: 10 ms
+11:40:42.689 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@31f20c9f: 10 ms
+11:40:42.698 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@49a26d19: 8 ms
+11:40:42.700 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@730e5763: 0 ms
+09:53:28.001 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
