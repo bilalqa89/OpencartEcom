@@ -28,3 +28,7 @@
 
 10:13:48.549 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
 10:13:50.502 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN Finish
+19:33:01.853 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+19:33:09.672 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
