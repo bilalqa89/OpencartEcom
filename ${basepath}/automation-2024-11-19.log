@@ -1,0 +1,60 @@
+10:08:15.374 [main] INFO  testCase.TC001_AccountRegistration {36} - TC001 Account registration loggin
+10:08:27.334 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
+10:11:31.297 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+10:11:34.604 [main] INFO  testCase.TC001_AccountRegistration {36} - TC001 Account registration loggin
+10:11:46.737 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
+10:13:32.493 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+10:13:34.957 [main] INFO  testCase.TC001_AccountRegistration {36} - TC001 Account registration loggin
+10:13:57.069 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
+10:45:16.837 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\docker.xml
+
+10:45:17.272 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
+10:47:45.943 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\docker.xml
+
+10:52:36.570 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\docker.xml
+
+10:53:50.825 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+10:56:55.364 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+10:13:48.549 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
+10:13:50.502 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN Finish
+19:33:01.853 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+19:33:09.672 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
+20:05:54.770 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+20:05:54.775 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+20:05:54.777 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:54.777 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:54.777 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:54.778 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:54.778 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:54.778 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:54.782 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+20:05:54.797 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+20:05:54.799 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+20:05:54.800 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:54.801 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:54.801 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:54.801 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:54.802 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:54.804 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:54.804 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:54.805 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:54.805 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:54.807 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:54.807 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:54.808 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:54.808 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:54.809 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+20:05:54.809 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.

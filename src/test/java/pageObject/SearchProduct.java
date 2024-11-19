@@ -17,7 +17,8 @@ public class SearchProduct extends BasePage {
 	WebElement txtsearch ;
 	@FindBy(xpath="//button[@class='btn btn-default btn-lg']")
 	WebElement searchbtn ;
-	
+	@FindBy(xpath="//i[@class='fa fa-home']")
+	WebElement homebutton ;
 	
 	//action
 	public void searchproduct(String sp)
@@ -29,7 +30,10 @@ public class SearchProduct extends BasePage {
 	{
 		searchbtn.click();
 	}
-	
+	public void clickhomebtn()
+	{
+		homebutton.click();
+	}
 	
 
 }

@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-18T19:33:01 PKT" name="Suite" finished-at="2024-11-18T19:33:10 PKT" duration-ms="8830">
+  <suite started-at="2024-11-19T20:14:18 PKT" name="Suite" finished-at="2024-11-19T20:14:27 PKT" duration-ms="9575">
     <groups>
-      <group name="Sanity">
-        <method signature="TC004_SearchProduct.searchproduct()[pri:0, instance:testCase.TC004_SearchProduct@6eeade6c]" name="searchproduct" class="testCase.TC004_SearchProduct"/>
-      </group> <!-- Sanity -->
-      <group name="master">
-        <method signature="TC004_SearchProduct.searchproduct()[pri:0, instance:testCase.TC004_SearchProduct@6eeade6c]" name="searchproduct" class="testCase.TC004_SearchProduct"/>
-      </group> <!-- master -->
+      <group name="datadriven">
+        <method signature="TC_005_SearchProductDataDriven.searchprodcutexcel(java.lang.String)[pri:0, instance:testCase.TC_005_SearchProductDataDriven@6eeade6c]" name="searchprodcutexcel" class="testCase.TC_005_SearchProductDataDriven"/>
+      </group> <!-- datadriven -->
     </groups>
-    <test started-at="2024-11-18T19:33:01 PKT" name="Test" finished-at="2024-11-18T19:33:10 PKT" duration-ms="8830">
-      <class name="testCase.TC004_SearchProduct">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.TC004_SearchProduct@6eeade6c]" started-at="2024-11-18T19:33:02 PKT" name="setup" finished-at="2024-11-18T19:33:09 PKT" duration-ms="7256" status="PASS">
+    <test started-at="2024-11-19T20:14:18 PKT" name="Test" finished-at="2024-11-19T20:14:27 PKT" duration-ms="9575">
+      <class name="testCase.TC_005_SearchProductDataDriven">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.TC_005_SearchProductDataDriven@6eeade6c]" started-at="2024-11-19T20:14:18 PKT" name="setup" finished-at="2024-11-19T20:14:22 PKT" duration-ms="3597" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,15 +26,55 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="searchproduct()[pri:0, instance:testCase.TC004_SearchProduct@6eeade6c]" started-at="2024-11-18T19:33:09 PKT" name="searchproduct" finished-at="2024-11-18T19:33:10 PKT" duration-ms="778" status="PASS">
+        <test-method signature="searchprodcutexcel(java.lang.String)[pri:0, instance:testCase.TC_005_SearchProductDataDriven@6eeade6c]" started-at="2024-11-19T20:14:23 PKT" name="searchprodcutexcel" data-provider="searchproductdata" finished-at="2024-11-19T20:14:24 PKT" duration-ms="1099" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphone]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- searchproduct -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCase.TC004_SearchProduct@6eeade6c]" started-at="2024-11-18T19:33:10 PKT" name="teardown" finished-at="2024-11-18T19:33:10 PKT" duration-ms="240" status="PASS">
+        </test-method> <!-- searchprodcutexcel -->
+        <test-method signature="searchprodcutexcel(java.lang.String)[pri:0, instance:testCase.TC_005_SearchProductDataDriven@6eeade6c]" started-at="2024-11-19T20:14:24 PKT" name="searchprodcutexcel" data-provider="searchproductdata" finished-at="2024-11-19T20:14:25 PKT" duration-ms="1074" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[macbook]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchprodcutexcel -->
+        <test-method signature="searchprodcutexcel(java.lang.String)[pri:0, instance:testCase.TC_005_SearchProductDataDriven@6eeade6c]" started-at="2024-11-19T20:14:25 PKT" name="searchprodcutexcel" data-provider="searchproductdata" finished-at="2024-11-19T20:14:26 PKT" duration-ms="1157" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samsung]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchprodcutexcel -->
+        <test-method signature="searchprodcutexcel(java.lang.String)[pri:0, instance:testCase.TC_005_SearchProductDataDriven@6eeade6c]" started-at="2024-11-19T20:14:26 PKT" name="searchprodcutexcel" data-provider="searchproductdata" finished-at="2024-11-19T20:14:27 PKT" duration-ms="1066" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[canon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchprodcutexcel -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCase.TC_005_SearchProductDataDriven@6eeade6c]" started-at="2024-11-19T20:14:27 PKT" name="teardown" finished-at="2024-11-19T20:14:27 PKT" duration-ms="218" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- testCase.TC004_SearchProduct -->
+      </class> <!-- testCase.TC_005_SearchProductDataDriven -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

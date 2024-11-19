@@ -1,34 +1,28 @@
-10:08:15.374 [main] INFO  testCase.TC001_AccountRegistration {36} - TC001 Account registration loggin
-10:08:27.334 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
-10:11:31.297 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+20:05:54.811 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:54.822 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:54.822 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:05:54.822 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:05:54.834 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\AppData\Local\Temp\testng-eclipse--1277289086\testng-customsuite.xml
+
+20:05:54.856 [main] INFO  org.testng.internal.Utils {36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+20:05:55.886 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.jq.Main@76d05cc9: 83 ms
+20:05:55.906 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@63fdffcd: 20 ms
+20:05:55.925 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@36dfbdaf: 18 ms
+20:05:55.938 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@44de94c3: 13 ms
+20:05:55.945 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1f387978: 6 ms
+20:05:55.946 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7cb2651f: 1 ms
+20:08:50.680 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
   C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
 
-10:11:34.604 [main] INFO  testCase.TC001_AccountRegistration {36} - TC001 Account registration loggin
-10:11:46.737 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
-10:13:32.493 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+20:08:58.031 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+20:08:58.641 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+20:08:59.117 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+20:08:59.620 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+20:14:18.279 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
   C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
 
-10:13:34.957 [main] INFO  testCase.TC001_AccountRegistration {36} - TC001 Account registration loggin
-10:13:57.069 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
-10:45:16.837 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\docker.xml
-
-10:45:17.272 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
-10:47:45.943 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\docker.xml
-
-10:52:36.570 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\docker.xml
-
-10:53:50.825 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
-
-10:56:55.364 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
-
-10:13:48.549 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN START
-10:13:50.502 [main] INFO  testCase.TC002_LoginTest {36} - TC002 TEST CASE LOGIN Finish
-19:33:01.853 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
-
-19:33:09.672 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
+20:14:23.220 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+20:14:24.339 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+20:14:25.417 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+20:14:26.583 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
