@@ -14,8 +14,9 @@
     <!--   <class name="testCase.TC002_LoginTest"/> -->
     
    <!--   <class name="testCase.TC004_SearchProduct"/> -->
-   
+     <class name="testCase.TC006_forgetpassword"/>
       <class name="testCase.TC_005_SearchProductDataDriven"/>
+    
       
    <!--  <class name="testCase.TC003_LoginDDT"/>-->
     </classes>

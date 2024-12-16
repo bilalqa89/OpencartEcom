@@ -1,0 +1,55 @@
+09:37:20.050 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:37:20.063 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:37:20.063 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:37:20.064 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:37:20.065 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:37:20.083 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:37:20.083 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:37:20.084 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:37:20.084 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:37:20.087 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:37:20.088 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+09:37:20.091 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:37:20.091 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:37:20.091 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:37:20.091 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:37:20.106 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\AppData\Local\Temp\testng-eclipse--950848417\testng-customsuite.xml
+
+09:37:20.146 [main] INFO  org.testng.internal.Utils {36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+09:37:20.450 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.jq.Main@5217f3d0: 123 ms
+09:37:20.481 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@b672aa8: 31 ms
+09:37:20.509 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@4089713: 26 ms
+09:37:20.528 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@a486d78: 19 ms
+09:37:20.539 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@49f5c307: 10 ms
+09:37:20.539 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@299266e2: 0 ms
+09:39:38.864 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+09:39:47.561 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+09:39:49.053 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+09:39:50.426 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+09:39:52.011 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+09:39:53.399 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+09:41:38.670 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+09:41:43.253 [main] INFO  testCase.TC006_forgetpassword {36} - Forget password
+09:44:24.016 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+09:44:29.765 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+09:44:31.989 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+09:44:33.571 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+09:44:35.143 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+09:44:36.588 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+09:46:49.410 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+09:46:54.217 [main] INFO  testCase.TC006_forgetpassword {36} - Forget password
+09:52:16.427 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+09:52:22.531 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+09:52:23.913 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
+09:52:25.599 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 

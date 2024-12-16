@@ -19,6 +19,8 @@ public class SearchProduct extends BasePage {
 	WebElement searchbtn ;
 	@FindBy(xpath="//i[@class='fa fa-home']")
 	WebElement homebutton ;
+	@FindBy(xpath="//h2[normalize-space()='Products meeting the search criteria']")
+	WebElement searchproductfind ;
 	
 	//action
 	public void searchproduct(String sp)
@@ -33,6 +35,18 @@ public class SearchProduct extends BasePage {
 	public void clickhomebtn()
 	{
 		homebutton.click();
+	}
+	
+	public boolean findproductexist()
+	{
+		try
+		{
+			return (searchproductfind.isDisplayed());
+		}
+		catch(Exception e)
+		{
+			return false;
+		}
 	}
 	
 
