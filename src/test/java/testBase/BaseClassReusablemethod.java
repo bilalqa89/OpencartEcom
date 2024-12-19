@@ -87,7 +87,7 @@ public class BaseClassReusablemethod {
 			switch(br.toLowerCase())
 			{
 			case "chrome": driver = new ChromeDriver();
-			System.setProperty("webdriver.chrome.driver", "C:\\Chrome_web\\chromedriver-win64\\chromedriver.exe");
+		//System.setProperty("webdriver.chrome.driver", "C:\\Chrome_web\\chrome-win64\\chrome.exe");
 			break;
 			case "firefox":driver= new FirefoxDriver(); break;
 			default :System.out.println("Invalid browsert"); return; //using return because if brwoser is invalid we dont go for further execution

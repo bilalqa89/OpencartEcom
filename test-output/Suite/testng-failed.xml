@@ -7,19 +7,12 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
-    <classes>
-      <class name="testCase.TC_005_SearchProductDataDriven">
-        <methods>
-          <include name="setup"/>
-          <include name="teardown"/>
-          <include name="searchprodcutexcel"/>
-        </methods>
-      </class> <!-- testCase.TC_005_SearchProductDataDriven -->
-    </classes>
-  </test> <!-- Test(failed) -->
-  <test thread-count="5" name="Test2(failed)">
-    <parameter name="os" value="windows"/>
-    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="master"/>
+        <include name="Sanity"/>
+      </run>
+    </groups>
     <classes>
       <class name="testCase.TC006_forgetpassword">
         <methods>
@@ -29,5 +22,5 @@
         </methods>
       </class> <!-- testCase.TC006_forgetpassword -->
     </classes>
-  </test> <!-- Test2(failed) -->
+  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

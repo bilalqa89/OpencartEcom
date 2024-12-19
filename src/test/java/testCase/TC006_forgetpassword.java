@@ -3,6 +3,7 @@ package testCase;
 import org.testng.annotations.Test;
 
 import pageObject.ForgettpasswordObject;
+import pageObject.HomepageObject;
 import pageObject.LoginPageobject;
 import testBase.BaseClassReusablemethod;
 
@@ -14,10 +15,15 @@ public class TC006_forgetpassword extends BaseClassReusablemethod  {
 		logger.info("Forget password");
 		try
 		{
-			ForgettpasswordObject fp = new ForgettpasswordObject(driver);
-			fp.clicklogin();
+			HomepageObject hp = new HomepageObject(driver);
+			hp.clickOnmyaccount();
 			LoginPageobject lp = new LoginPageobject(driver);
 			lp.clickforgetpassword();
+			ForgettpasswordObject fp = new ForgettpasswordObject(driver);
+			fp.clicklogin();
+			
+			
+			
 			
 		}
 		

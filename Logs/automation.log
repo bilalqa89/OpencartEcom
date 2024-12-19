@@ -8,3 +8,43 @@
   C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
 
 10:00:14.343 [main] INFO  testCase.TC006_forgetpassword {36} - Forget password
+10:18:12.696 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+10:18:21.076 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
+10:45:07.315 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+10:45:12.966 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
+10:46:16.821 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+10:46:21.683 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
+10:48:37.434 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+10:48:43.926 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
+10:56:34.159 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+10:56:34.792 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
+10:56:34.899 [main] INFO  testCase.TC006_forgetpassword {36} - Forget password
+11:02:37.846 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+11:02:43.927 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
+11:11:01.438 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+11:11:06.913 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
+11:11:11.089 [main] INFO  testCase.TC006_forgetpassword {36} - Forget password
+11:13:27.448 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+11:13:33.133 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
+11:13:37.834 [main] INFO  testCase.TC006_forgetpassword {36} - Forget password
+11:17:53.120 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+11:17:58.429 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
+11:18:03.906 [main] INFO  testCase.TC006_forgetpassword {36} - Forget password
