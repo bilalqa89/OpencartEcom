@@ -48,3 +48,19 @@
 
 11:17:58.429 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
 11:18:03.906 [main] INFO  testCase.TC006_forgetpassword {36} - Forget password
+11:31:34.577 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+11:31:45.961 [main] INFO  testCase.TC007_wishlist {36} - TC007 checking wish list working 
+11:34:20.162 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+11:34:23.831 [main] INFO  testCase.TC007_wishlist {36} - TC007 checking wish list working 
+11:38:43.706 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+11:38:46.749 [main] INFO  testCase.TC007_wishlist {36} - TC007 checking wish list working 
+11:40:20.626 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
+
+11:40:23.911 [main] INFO  testCase.TC007_wishlist {36} - TC007 checking wish list working 

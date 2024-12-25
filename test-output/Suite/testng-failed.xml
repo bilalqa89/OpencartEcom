@@ -14,13 +14,13 @@
       </run>
     </groups>
     <classes>
-      <class name="testCase.TC006_forgetpassword">
+      <class name="testCase.TC007_wishlist">
         <methods>
           <include name="setup"/>
           <include name="teardown"/>
-          <include name="forgetpassword"/>
+          <include name="checkwishlist"/>
         </methods>
-      </class> <!-- testCase.TC006_forgetpassword -->
+      </class> <!-- testCase.TC007_wishlist -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -22,8 +22,9 @@
     <!--  <class name="testCase.TC001_AccountRegistration"/> --> 
     <!--   <class name="testCase.TC002_LoginTest"/> -->
     
-      <class name="testCase.TC004_SearchProduct"/> 
-     <class name="testCase.TC006_forgetpassword"/>
+  <!--     <class name="testCase.TC004_SearchProduct"/> -->
+   <!--   <class name="testCase.TC006_forgetpassword"/> -->
+   <class name="testCase.TC007_wishlist"/>
      
    <!--   <class name="testCase.TC_005_SearchProductDataDriven"/> --> 
     

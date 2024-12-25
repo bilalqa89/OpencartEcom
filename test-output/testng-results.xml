@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-17T11:17:53 PKT" name="Suite" finished-at="2024-12-17T11:18:24 PKT" duration-ms="31547">
+  <suite started-at="2024-12-25T11:40:20 PKT" name="Suite" finished-at="2024-12-25T11:40:26 PKT" duration-ms="5852">
     <groups>
       <group name="Sanity">
-        <method signature="TC004_SearchProduct.searchproduct()[pri:0, instance:testCase.TC004_SearchProduct@73163d48]" name="searchproduct" class="testCase.TC004_SearchProduct"/>
-        <method signature="TC006_forgetpassword.forgetpassword()[pri:0, instance:testCase.TC006_forgetpassword@1698fc68]" name="forgetpassword" class="testCase.TC006_forgetpassword"/>
+        <method signature="TC007_wishlist.checkwishlist()[pri:0, instance:testCase.TC007_wishlist@6cfcd46d]" name="checkwishlist" class="testCase.TC007_wishlist"/>
       </group> <!-- Sanity -->
       <group name="master">
-        <method signature="TC004_SearchProduct.searchproduct()[pri:0, instance:testCase.TC004_SearchProduct@73163d48]" name="searchproduct" class="testCase.TC004_SearchProduct"/>
-        <method signature="TC006_forgetpassword.forgetpassword()[pri:0, instance:testCase.TC006_forgetpassword@1698fc68]" name="forgetpassword" class="testCase.TC006_forgetpassword"/>
+        <method signature="TC007_wishlist.checkwishlist()[pri:0, instance:testCase.TC007_wishlist@6cfcd46d]" name="checkwishlist" class="testCase.TC007_wishlist"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2024-12-17T11:17:53 PKT" name="Test" finished-at="2024-12-17T11:18:24 PKT" duration-ms="31547">
-      <class name="testCase.TC006_forgetpassword">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.TC006_forgetpassword@1698fc68]" started-at="2024-12-17T11:17:59 PKT" name="setup" finished-at="2024-12-17T11:18:03 PKT" duration-ms="4289" status="PASS">
+    <test started-at="2024-12-25T11:40:20 PKT" name="Test" finished-at="2024-12-25T11:40:26 PKT" duration-ms="5852">
+      <class name="testCase.TC007_wishlist">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.TC007_wishlist@6cfcd46d]" started-at="2024-12-25T11:40:20 PKT" name="setup" finished-at="2024-12-25T11:40:23 PKT" duration-ms="3003" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -31,41 +29,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="forgetpassword()[pri:0, instance:testCase.TC006_forgetpassword@1698fc68]" started-at="2024-12-17T11:18:03 PKT" name="forgetpassword" finished-at="2024-12-17T11:18:24 PKT" duration-ms="20472" status="PASS">
+        <test-method signature="checkwishlist()[pri:0, instance:testCase.TC007_wishlist@6cfcd46d]" started-at="2024-12-25T11:40:23 PKT" name="checkwishlist" finished-at="2024-12-25T11:40:26 PKT" duration-ms="2351" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- forgetpassword -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCase.TC006_forgetpassword@1698fc68]" started-at="2024-12-17T11:18:24 PKT" name="teardown" finished-at="2024-12-17T11:18:24 PKT" duration-ms="314" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- testCase.TC006_forgetpassword -->
-      <class name="testCase.TC004_SearchProduct">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.TC004_SearchProduct@73163d48]" started-at="2024-12-17T11:17:53 PKT" name="setup" finished-at="2024-12-17T11:17:58 PKT" duration-ms="4680" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="searchproduct()[pri:0, instance:testCase.TC004_SearchProduct@73163d48]" started-at="2024-12-17T11:17:58 PKT" name="searchproduct" finished-at="2024-12-17T11:17:59 PKT" duration-ms="857" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- searchproduct -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCase.TC004_SearchProduct@73163d48]" started-at="2024-12-17T11:17:59 PKT" name="teardown" finished-at="2024-12-17T11:17:59 PKT" duration-ms="303" status="PASS">
+        </test-method> <!-- checkwishlist -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCase.TC007_wishlist@6cfcd46d]" started-at="2024-12-25T11:40:26 PKT" name="teardown" finished-at="2024-12-25T11:40:26 PKT" duration-ms="208" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- testCase.TC004_SearchProduct -->
+      </class> <!-- testCase.TC007_wishlist -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
