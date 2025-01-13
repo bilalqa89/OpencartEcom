@@ -14,13 +14,13 @@
       </run>
     </groups>
     <classes>
-      <class name="testCase.TC007_wishlist">
+      <class name="testCase.TC008_Addtocart">
         <methods>
           <include name="setup"/>
           <include name="teardown"/>
-          <include name="checkwishlist"/>
+          <include name="testaddtocart"/>
         </methods>
-      </class> <!-- testCase.TC007_wishlist -->
+      </class> <!-- testCase.TC008_Addtocart -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

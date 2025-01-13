@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-25T11:40:20 PKT" name="Suite" finished-at="2024-12-25T11:40:26 PKT" duration-ms="5852">
+  <suite started-at="2025-01-13T16:53:42 PKT" name="Suite" finished-at="2025-01-13T16:53:58 PKT" duration-ms="15763">
     <groups>
       <group name="Sanity">
-        <method signature="TC007_wishlist.checkwishlist()[pri:0, instance:testCase.TC007_wishlist@6cfcd46d]" name="checkwishlist" class="testCase.TC007_wishlist"/>
+        <method signature="TC008_Addtocart.testaddtocart()[pri:0, instance:testCase.TC008_Addtocart@565b064f]" name="testaddtocart" class="testCase.TC008_Addtocart"/>
       </group> <!-- Sanity -->
       <group name="master">
-        <method signature="TC007_wishlist.checkwishlist()[pri:0, instance:testCase.TC007_wishlist@6cfcd46d]" name="checkwishlist" class="testCase.TC007_wishlist"/>
+        <method signature="TC008_Addtocart.testaddtocart()[pri:0, instance:testCase.TC008_Addtocart@565b064f]" name="testaddtocart" class="testCase.TC008_Addtocart"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2024-12-25T11:40:20 PKT" name="Test" finished-at="2024-12-25T11:40:26 PKT" duration-ms="5852">
-      <class name="testCase.TC007_wishlist">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.TC007_wishlist@6cfcd46d]" started-at="2024-12-25T11:40:20 PKT" name="setup" finished-at="2024-12-25T11:40:23 PKT" duration-ms="3003" status="PASS">
+    <test started-at="2025-01-13T16:53:42 PKT" name="Test" finished-at="2025-01-13T16:53:58 PKT" duration-ms="15763">
+      <class name="testCase.TC008_Addtocart">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.TC008_Addtocart@565b064f]" started-at="2025-01-13T16:53:42 PKT" name="setup" finished-at="2025-01-13T16:53:56 PKT" duration-ms="13306" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,15 +29,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="checkwishlist()[pri:0, instance:testCase.TC007_wishlist@6cfcd46d]" started-at="2024-12-25T11:40:23 PKT" name="checkwishlist" finished-at="2024-12-25T11:40:26 PKT" duration-ms="2351" status="PASS">
+        <test-method signature="testaddtocart()[pri:0, instance:testCase.TC008_Addtocart@565b064f]" started-at="2025-01-13T16:53:56 PKT" name="testaddtocart" finished-at="2025-01-13T16:53:57 PKT" duration-ms="1608" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- checkwishlist -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCase.TC007_wishlist@6cfcd46d]" started-at="2024-12-25T11:40:26 PKT" name="teardown" finished-at="2024-12-25T11:40:26 PKT" duration-ms="208" status="PASS">
+        </test-method> <!-- testaddtocart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCase.TC008_Addtocart@565b064f]" started-at="2025-01-13T16:53:57 PKT" name="teardown" finished-at="2025-01-13T16:53:58 PKT" duration-ms="323" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- testCase.TC007_wishlist -->
+      </class> <!-- testCase.TC008_Addtocart -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

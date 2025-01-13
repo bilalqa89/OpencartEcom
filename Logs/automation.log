@@ -1,66 +1,39 @@
-09:52:26.930 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
-09:52:28.202 [main] INFO  testCase.TC_005_SearchProductDataDriven {36} - Tc005 data driven test case 
-09:54:22.715 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+21:09:07.943 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:09:07.951 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:09:07.953 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:09:07.953 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:09:07.953 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:09:07.953 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:09:07.961 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:09:07.962 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:09:07.962 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:09:07.962 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:09:07.963 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:09:07.964 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:09:07.971 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:09:07.971 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:09:07.971 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:09:07.971 [main] INFO  org.testng.internal.Utils {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:09:07.983 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+  C:\Users\CBZ\AppData\Local\Temp\testng-eclipse--1682317200\testng-customsuite.xml
+
+21:09:08.004 [main] INFO  org.testng.internal.Utils {36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+21:09:08.213 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.jq.Main@5217f3d0: 75 ms
+21:09:08.225 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@b672aa8: 11 ms
+21:09:08.240 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@4089713: 13 ms
+21:09:08.252 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@a486d78: 12 ms
+21:09:08.260 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@49f5c307: 7 ms
+21:09:08.260 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@299266e2: 0 ms
+21:11:03.172 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
   C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
 
-09:54:26.826 [main] INFO  testCase.TC006_forgetpassword {36} - Forget password
-10:00:08.881 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+21:17:43.177 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
   C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
 
-10:00:14.343 [main] INFO  testCase.TC006_forgetpassword {36} - Forget password
-10:18:12.696 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+21:22:11.376 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
   C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
 
-10:18:21.076 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
-10:45:07.315 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
+16:53:42.400 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
   C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
 
-10:45:12.966 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
-10:46:16.821 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
-
-10:46:21.683 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
-10:48:37.434 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
-
-10:48:43.926 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
-10:56:34.159 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
-
-10:56:34.792 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
-10:56:34.899 [main] INFO  testCase.TC006_forgetpassword {36} - Forget password
-11:02:37.846 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
-
-11:02:43.927 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
-11:11:01.438 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
-
-11:11:06.913 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
-11:11:11.089 [main] INFO  testCase.TC006_forgetpassword {36} - Forget password
-11:13:27.448 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
-
-11:13:33.133 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
-11:13:37.834 [main] INFO  testCase.TC006_forgetpassword {36} - Forget password
-11:17:53.120 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
-
-11:17:58.429 [main] INFO  testCase.TC004_SearchProduct {36} - Test case for search product
-11:18:03.906 [main] INFO  testCase.TC006_forgetpassword {36} - Forget password
-11:31:34.577 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
-
-11:31:45.961 [main] INFO  testCase.TC007_wishlist {36} - TC007 checking wish list working 
-11:34:20.162 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
-
-11:34:23.831 [main] INFO  testCase.TC007_wishlist {36} - TC007 checking wish list working 
-11:38:43.706 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
-
-11:38:46.749 [main] INFO  testCase.TC007_wishlist {36} - TC007 checking wish list working 
-11:40:20.626 [main] INFO  org.testng.internal.Utils {36} - [TestNG] Running:
-  C:\Users\CBZ\eclipse-workspace\OpencartEcom\master.xml
-
-11:40:23.911 [main] INFO  testCase.TC007_wishlist {36} - TC007 checking wish list working 
+16:53:56.223 [main] INFO  testCase.TC008_Addtocart {36} - Add to cart test case 
